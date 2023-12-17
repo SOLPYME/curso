@@ -1,0 +1,2 @@
+Este es el archivo de lectura inicial obligatoria de mi proyecto.
+reprobar un cambio al añadir los archivos Parciales.
